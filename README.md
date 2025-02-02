@@ -24,7 +24,4 @@ Screenshots & Video Walkthrough
 Screenshots: Include UI images.
 
 Video: A short walkthrough demonstrating the quiz flow and gamification elements.
-
-C:\Users\Admin\Desktop\screenshota			
-![image](https://github.com/user-attachments/assets/8294a2e7-2bbb-45a8-99a9-61a4aa4aff2d)
-
+https://drive.google.com/drive/folders/1-4XRNOLRDki6kSPI2rdEmqzyk8Yw7q-E
